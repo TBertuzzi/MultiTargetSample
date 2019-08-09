@@ -28,4 +28,7 @@ Utilize os ItemGroup com a Condition para definir qual projeto ira receber quais
 
 ````
   
+  Quer saber mais sobre MultiTarget projects ?
+  
+  Então se liga no artigo do [James Montemago](https://github.com/jamesmontemagno)  : https://montemagno.com/tag/multi-target/
   
